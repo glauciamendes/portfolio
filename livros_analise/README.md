@@ -25,13 +25,13 @@ Técnicas Utilizadas
 Visualização de Dados: Gráficos de barras, linha, treemap e heatmaps com Matplotlib e Seaborn.
 Clusterização:
 Aplicação do algoritmo K-means, resultando em dois clusters:
-Cluster 1: Thriller Psicológico
-Cluster 0: Biografia, Ficção, Técnico e Não-ficção
+Cluster 1: Thriller Psicológico;
+Cluster 0: Biografia, Ficção, Técnico e Não-ficção;
 Regressão Linear: Modelagem da tendência de leitura ao longo do tempo utilizando statsmodels.
 
-Ferramentas
-Python (Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodels)
-Google Colab
+Ferramentas: 
+Python ( Libs: Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodels);
+Google Colab;
 Google Sheets API
 
 Como Executar
